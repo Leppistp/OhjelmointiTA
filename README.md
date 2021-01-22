@@ -12,4 +12,4 @@ Asennushakemisto |
 
     C:\Programfiles
 
-    Käyttäjätunnus | Leppis_pc
+ Käyttäjätunnus | Leppis_pc
