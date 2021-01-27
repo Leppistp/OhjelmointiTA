@@ -10,6 +10,6 @@ Huom. VMwaren asetukset ovatt konekohtaisia. muuta oman kotikoonesi asetukset va
 |---|---|
 Asennushakemisto |
 
-    C:\Programfiles
+                    C:\Programfiles
 
  Käyttäjätunnus | Leppis_pc
